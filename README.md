@@ -8,9 +8,7 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 5. [State Management](#state-management)
-6. [Form Handling and Validation](#form-handling-and-validation)
-7. [Responsive Design](#responsive-design)
-8. [Folder Structure](#folder-structure)
+6. [Responsive Design](#responsive-design)
 
 ## Project Overview
 This project is a responsive e-commerce platform built using **HTML, CSS, JavaScript, Tailwind CSS, React.js, Redux Toolkit, Formik, and Yup**. The platform features a landing page, product listings, detailed product pages, a shopping cart, a multi-step checkout process, an order history page, and an admin panel for managing products and user accounts.
